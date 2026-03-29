@@ -110,11 +110,11 @@ http://127.0.0.1:5000/
 
 ### 🔹 Input Form
 
-![Input Form](add-your-screenshot-link-1)
+![Input Form](https://github.com/LAKSHYACH543/testforestfire/raw/main/Screenshot%20(2).png)
 
 ### 🔹 Prediction Output
 
-![Prediction Output](add-your-screenshot-link-2)
+![Prediction Output](https://github.com/LAKSHYACH543/testforestfire/raw/main/Screenshot%20(4).png)
 
 ---
 
